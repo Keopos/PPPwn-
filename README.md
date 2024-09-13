@@ -35,7 +35,7 @@ git clone --recursive https://github.com/Keopos/PPPwn-
 Change the directory to the cloned repository:
 
 ```sh
-cd PPPwn
+cd PPPwn-
 ```
 
 Install the requirements:
